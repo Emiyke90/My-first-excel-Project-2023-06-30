@@ -241,8 +241,8 @@ Looking at the chart below,the most populated located(State) where customers tha
 The retention rates for Acre(AC) and Rondonia(RO)stands at 10.2% and 10.5 respectively.So therefore they are the two top states followed by by Rio de Janeiro(RJ)with 6.8% retention rate.
 
 ## Data Visualization:
-![]()
-
+![](VISUAL_FOR_CHISOM_DATA_CHALLENGE.jpg)
+---
 
 ## Key findings:
 1. For the 2 years under review,the platform generated $13,591,643in revenue with the 3rd year having the most revenue for the platform,which signified that as they grew,more sellers and customer kept increasing.
